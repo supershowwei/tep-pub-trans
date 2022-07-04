@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPEPubTrans", "TPEPubTrans\TPEPubTrans.csproj", "{363F5CC0-8326-40DA-A019-522AE60E537E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363F5CC0-8326-40DA-A019-522AE60E537E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363F5CC0-8326-40DA-A019-522AE60E537E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363F5CC0-8326-40DA-A019-522AE60E537E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363F5CC0-8326-40DA-A019-522AE60E537E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5000194A-0941-41E6-9BEA-BC1E167F739D}
+	EndGlobalSection
+EndGlobal
